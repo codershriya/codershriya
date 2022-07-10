@@ -2,8 +2,8 @@
 
 
 
-- 👀 I’m interested in financial technology
-- 💞️ I’m looking to collaborate on ... web (react/node) or mobile (flutter) projects!
+- 👀 I’m interested in financial technology and apps/tools that help communities 
+- 💞️ I’m looking to collaborate on ... web (react/node) or mobile (flutter / react native) projects!
 - 📫 How to reach me ... codershriya@gmail.com
 
 <!---
